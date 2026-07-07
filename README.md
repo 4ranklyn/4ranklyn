@@ -11,8 +11,7 @@ I operate at the intersection of technical execution and product strategy—buil
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ranklyn&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ranklyn&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://metrics.lecoq.io/4ranklyn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories&config.timezone=Asia%2FJakarta&theme=dark" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
