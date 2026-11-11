@@ -1,15 +1,30 @@
-# Jasson Franklyn Wang 🚀
-**Product Management & Ownership | Machine Learning Practitioner**
+### Jasson Franklyn Wang (Frank)
 
-I operate at the intersection of technical execution and product strategy—building optimized, high-utility technical solutions with a relentless focus on efficiency and clear metrics.
-
-> *“Persevere, for victories belong to the ones who seek and fight for them.”*
+**AI-Enabled Full-Stack Product Engineer & Product Manager**  
+Building spec-driven products, multimodal AI workflows, and agentic systems. Focused on stripping away performative complexity so the core architecture actually works.
 
 ---
 
-### 🛠️ Tech Stack & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### Core Stack & Architecture
+
+- **Frontend & Product:** TypeScript, JavaScript, React, Next.js, Astro, Vite, Tailwind CSS, PWA
+- **AI & Agentic Systems:** Python, Google Gemini / GenAI SDK, Google ADK, OpenAI SDK, LangChain, RAG, ChromaDB, Hugging Face
+- **Backend & Services:** Go (Clean Architecture, GORM), PHP (Laravel), Node.js, Firebase / Firestore
+- **Mobile:** Kotlin, Java, Jetpack Compose, Capacitor
+- **Infra & Quality:** Google Cloud (Cloud Run), Docker, GitHub Actions CI/CD, Vitest, ESLint
 
 ---
 
-📬 **Connect with me:** [@franklynical](https://instagram.com/franklynical)
+### Engineering Focus
+
+- **Agentic & Multimodal AI:** End-to-end pipelines integrating OCR, speech transcription, image captioning, and semantic search.
+- **Product Engineering:** Spec-driven development, privacy-first architecture (client-side encryption, PII masking), and high-craft UI/UX.
+- **Subtractive Tooling:** Building deterministic, bloat-free workflows and evaluation suites.
+
+---
+
+### Telemetry
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
