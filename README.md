@@ -4,7 +4,7 @@
 $ whoami
 > Full-Stack Product Builder & Systems Generalist
 > Core: Product Discovery ⇆ Distributed Systems & High-Assurance Architecture
-> Web: https://franklyn.page | Contact: contact@franklyn.page
+> Web: [https://franklyn.page](https://franklyn.page) | Contact: contact@franklyn.page
 ```
 
 I build resilient, end-to-end software systems that solve concrete problems. My work bridges product discovery, crisp behavioral contracts, and pragmatic systems engineering—from zero-data-loss storage models to sub-100ms LLM agent orchestration.
@@ -36,7 +36,7 @@ I build resilient, end-to-end software systems that solve concrete problems. My 
 ### Engineering Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ranklyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4ranklyn&theme=tokyonight" alt="GitHub Profile Details" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ranklyn&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
