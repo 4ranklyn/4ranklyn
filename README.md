@@ -1,10 +1,10 @@
-# Jasson Franklyn Wang
+# [Jasson Franklyn Wang](https://franklyn.page)
 
 ```bash
 $ whoami
 > Full-Stack Product Builder & Systems Generalist
 > Core: Product Discovery ⇆ Distributed Systems & High-Assurance Architecture
-> Web: [https://franklyn.page](https://franklyn.page) | Contact: contact@franklyn.page
+> Web: https://franklyn.page | Contact: contact@franklyn.page
 ```
 
 I build resilient, end-to-end software systems that solve concrete problems. My work bridges product discovery, crisp behavioral contracts, and pragmatic systems engineering—from zero-data-loss storage models to sub-100ms LLM agent orchestration.
